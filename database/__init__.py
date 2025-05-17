@@ -1,0 +1,1 @@
+DB_URL="postgresql+psycopg2://postgres:10235Yamato55k%@localhost:5432/my_test_db"
